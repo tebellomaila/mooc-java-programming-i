@@ -1,7 +1,15 @@
 # Maven
 target/
-pom.xml
+*.class
 
 # TMC (TestMyCode)
 .tmcproject.yml
 course_config.toml
+.checkstyle.xml
+stylecheck.xml
+checkstyle-suppressions.xml
+
+# IDE/Editor
+*.iml
+.idea/
+.vscode/
